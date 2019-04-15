@@ -11,8 +11,7 @@
 
    #### Step 1: Define the rubric to evaluate the graphs
 
-<a href ="https://github.com/VikitaNayak/Self-Study-Project/blob/master/EvaluationRubric.PNG">
-![image.png](attachment:image.png)
+![ScreenShot](EvaluationRubric.PNG)
 
 
 Rubric Layout Created on https://www.rcampus.com/rubricshellc.cfm
