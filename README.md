@@ -42,7 +42,7 @@ Truthfulness of a graph is a substantial criteria in evaluating any graph. Howev
 #### Visualization 1 
 This graph indicates that in the time period from 1900 to 2000, the earth's temperature (Y axis) has changed due to human activities which increases green house gases emissions. The observed values are being replicated when human factors are conidered. By including only the natural factors like volcanic eruptions, the observed results were not being reproduced. However, adding the human factors did impact the climate change to a great extent as shown in the graph below
 
-![image.png](attachment:image.png)
+![ScreenShot](Visualization 1 - Human vs Natural factors.png)
 
 Graph Reference: https://www.wri.org/blog/2017/04/climate-science-explained-10-graphics
 
@@ -69,7 +69,7 @@ This graph shows the percentage contribution to global warming over the past 50-
 
 The studies color coded on right side of graph are Tett et al. 2000 (T00, dark blue), Meehl et al. 2004 (M04, red), Stone et al. 2007 (S07, green), Lean and Rind 2008 (LR08, purple), Huber and Knutti 2011 (HK11, light blue), Gillett et al. 2012 (G12, orange), Wigley and Santer 2012 (WG12, dark green), Jones et al. 2013 (J13, pink), IPCC AR5 (IPCC, light green), and Ribes et al. 2016 (R16, light purple).
 
-![image.png](attachment:image.png)
+![ScreenShot](Visualzation 2 - Human vs natural factors.jpg)
 
 Graph Reference: https://skepticalscience.com/graphics.php?g=57
 
@@ -95,7 +95,7 @@ Graph Reference: https://skepticalscience.com/graphics.php?g=57
 
 This graph can visually catch audience attention to a great extent . It shows global temperature change from (1850-2017) for each month in the animated spiral form. From the graph, it is observed that the global temperature change (0 - 1.5) has increased from around 1995 and rapidly increasing thereafter till 2017
 
-![spiral_2017_large-1.gif](attachment:spiral_2017_large-1.gif)
+![ScreenShot](Visualization 3 - Spiral climate change.gif)
 
 
 
@@ -125,7 +125,7 @@ This figure shows the total amount of radiative forcing caused by human activiti
 
 The human activities are causing global warming and it is predicted to increase global warming given the causes of global warming are not prevented.
 
-![Graph%201.png](attachment:Graph%201.png)
+![ScreenShot](Visualization 4 - climate forcing.png)
 
 Graph Reference: https://www.epa.gov/climate-indicators/climate-change-indicators-climate-forcing
 
@@ -151,7 +151,7 @@ Graph Reference: https://www.epa.gov/climate-indicators/climate-change-indicator
 
 This graph shows that the climate change has increased from 1750 to 2000 due to factors like Greenhouse gases, Aerosol,Land use,volcanoes etc. 
 
-![image.png](attachment:image.png)
+![ScreenShot](Visualization 5 Factors of climate change.PNG)
 Graph Reference: https://www.carbonbrief.org/analysis-why-scientists-think-100-of-global-warming-is-due-to-humans
 
 #### Assessment based on evaluation framework
