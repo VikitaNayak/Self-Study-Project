@@ -182,7 +182,7 @@ Graph Reference: https://www.carbonbrief.org/analysis-why-scientists-think-100-o
 
 ### 3. Conclusion
 
-This project gives a hands on experiecence on how to critique a visualization and how data can be used to tell a story using different types of visualization. Designing graph or charts can be done in various ways. However, it totally depends on the end user's purpose of use.Visualization 4 is an example of such a scenario where some specific details about human factors is needed and such graphs may not be easy to understand for general audience but helpful for users with that background knowledge.
+This project gives a hands on experiecence on how to critique a visualization and how data can be used to tell a story using different types of visualization. Designing graph or charts can be done in various ways. However, it totally depends on the end user's purpose of using the graph.Visualization 4 is an example of such a scenario where some specific details about human factors is needed and such graphs may not be easy to understand for general audience but helpful for users with that background knowledge.
 Visulaization 3 is a perfect example of how to design eye catching graphs. Visualization 1 & 2 are examples of simple graphs which can be understood by general audience. Visualization 5 is more granular version of Visualization 1&2 where human factors are breakdown further. 
 
-Overall, a great learning experience so study each visualization and think about what improvements can be made to make it more useful
+Overall, a great learning experience to study each visualization and think about what improvements can be made to make it more useful
