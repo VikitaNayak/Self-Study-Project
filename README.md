@@ -186,3 +186,12 @@ This project gives a hands on experiecence on how to critique a visualization an
 Visulaization 3 is a perfect example of how to design eye catching graphs. Visualization 1 & 2 are examples of simple graphs which can be understood by general audience. Visualization 5 is more granular version of Visualization 1&2 where human factors are breakdown further. 
 
 Overall, a great learning experience to study each visualization and think about what improvements can be made to make it more useful
+
+### Part 2 Replication of Warming Stripes
+
+This graph is replicated using Tableau
+
+<p>
+    <img src="Visualization Reproduction image.PNG" />
+ </p>
+Reference : https://www.metoffice.gov.uk/hadobs/hadcrut4/data
