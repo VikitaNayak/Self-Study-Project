@@ -1,4 +1,4 @@
-# Self-Study-Project
+# Data Visualization Self-Study-Project
 
 
 ### MSIS 2629 Data Visualization - Self Study Project
